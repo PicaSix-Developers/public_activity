@@ -246,7 +246,6 @@ For more documentation go [here](http://rubydoc.info/gems/public_activity/index)
 * [[How to] Use custom fields on Activity](https://github.com/pokonski/public_activity/wiki/%5BHow-to%5D-Use-custom-fields-on-Activity)
 
 ## Help
-
 If you need help with using public_activity please visit our discussion group and ask a question there:
 
 https://groups.google.com/forum/?fromgroups#!forum/public-activity
